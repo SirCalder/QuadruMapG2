@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        -49.347274,
+                        -26.24769
+                    ],
+                    [
+                        -49.347274,
+                        -26.24769
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Trajetoria_JetTank",
+                "pontos_validados": 2
+            }
+        }
+    ]
+}
